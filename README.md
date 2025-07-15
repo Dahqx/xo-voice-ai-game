@@ -18,4 +18,3 @@ pip install -r requirements.txt
 🟦 left         | 🟦 center    | 🟦 right  
 🟦 bottom left  | 🟦 bottom    | 🟦 bottom right
 
-<img width="896" height="1062" alt="image" src="https://github.com/user-attachments/assets/de22d383-9f99-41db-ae39-d233be4ae455" />
